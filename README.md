@@ -6,7 +6,7 @@ A simple Rust script that scrapes a [fake job listings](https://realpython.githu
 
 This script does not have any major real life implications. Was created to test Rust as a scraping option.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/-Ba_txktl6g)
 
 # Development Environment
 
